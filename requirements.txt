@@ -1,0 +1,12 @@
+Cython
+packaging
+nemo_toolkit['asr'] Cython packaging
+pandas
+torch
+zipfile
+json
+pandas
+torch
+omegaconf
+pytorch-lightning
+matplotlib
